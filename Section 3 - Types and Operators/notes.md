@@ -43,3 +43,8 @@ bool isNew = 'hello'
 
 -   A special function that is syntactically different
 -   Generally, operators take two parameters and return one result
+
+### Namespace
+
+-   A container for variables and functions
+-   Typically to keep variables and function with the same name separate
